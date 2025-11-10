@@ -1,29 +1,28 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chamod" alt="Typing SVG" />
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Chamod" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
+
 <br>
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
-<br>
-  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+💻;Code+Enthusiast+⚡;Always+Learning+🌱" alt="Typing SVG" />
+
+---
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<br>
+
+</div>
+
 ## 👨‍💻 About Me
 
-🚀 **Passionate Software Engineer** specializing in fullstack development with a focus on building scalable, efficient solutions.
-<br><br>
-
-- 🌱 Currently pursuing **Software Engineering** and exploring cutting-edge technologies
-- 💼 Building real-world applications with modern tech stacks
-- 🎯 Focused on **clean code**, **best practices**, and **continuous learning**
-- 💬 Let's discuss **Java, Python, JavaScript, React, Node.js**, and **System Design**
-- 📫 Reach me at **chamodrathnayaka008@gmail.com**
-- ⚡Fun fact: **I debug code faster than I debug my life! 😄**
-
-<br><br>
+🚀 **Passionate Software Engineer** specializing in fullstack development with a focus on building scalable, efficient solutions.  
+🌱 Currently pursuing **Software Engineering** and exploring cutting-edge technologies.  
+💼 Building real-world applications using **modern tech stacks**.  
+🎯 Dedicated to writing **clean, maintainable, and efficient code**.  
+💬 Interested in **Java, Python, JavaScript, React, Node.js**, and **System Design**.  
+📫 Reach me at: **chamodrathnayaka008@gmail.com**  
+⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
 ---
 
@@ -31,19 +30,19 @@
 
 <div align="center">
 
-### Languages
+### 🧠 Languages
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
 
-### Frontend Development
+### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui" />
 
-### Backend Development
+### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi" />
 
-### Databases & Cloud
+### ☁️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,supabase" />
 
-### Tools & DevOps
+### 🧰 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,nginx" />
 
 </div>
@@ -70,44 +69,37 @@
 
 </div>
 
-> 💡 **Note**: Replace `your-repo-name` with your actual repository names to showcase your best projects!
+> 💡 **Tip**: Replace `your-repo-name` with your actual repository name to highlight your best work.
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    
-## Connect With Me🤝
+## 🤝 Connect With Me
 
-<div
-  </ul>
+<div align="center">
 
-<p align="center">
-	<a href="https://wa.me/+94758916202"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/chamod-rathnayake-177399362/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://web.facebook.com/chamod.thenuka.2025"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/chamod_thenuka_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+<a href="https://wa.me/+94758916202"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+<a href="https://www.linkedin.com/in/chamod-rathnayake-177399362/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://web.facebook.com/chamod.thenuka.2025"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/chamod_thenuka_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
 ---
-
 
 ## 💭 Random Dev Quote
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### ⭐ Thanks for visiting my profile! ⭐
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer"/>
-  
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer"/>
+
 </div>
