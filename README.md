@@ -6,8 +6,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
 
   <div align="center">
-    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="margin-top: 20px;" />
-    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="margin-top: 20px;" />
+    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="margin-top: 20px;" />
+    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="margin-top: 20px;" />
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer+💻;Code+Enthusiast+⚡;Always+Learning+🌱" alt="Typing SVG" />
 
